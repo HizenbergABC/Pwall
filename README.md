@@ -2,5 +2,5 @@
 ___________________________________________________________________________________________________________________________________________
 
 > *You can see parts of it here*
- !(/readme_additions/category_python.jpg "python") 
+ ![!category python](/readme_additions/category_python.jpg "python") 
       
